@@ -1,8 +1,6 @@
 # DasarAlgoritmaDanPemrograman-BisDig
 heru prayono sinambela (24110310038) 2B BISNIS DIGITAL
 
-DasarAlgoritmaDanPemrograman-BisDig
-UJIAN TENGAH SEMESTER ( HUZMA ANNISA, 24110310039 ) 2A BISNIS DIGITAL
 
 penjelasan dalam soal uts
 
